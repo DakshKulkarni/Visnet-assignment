@@ -1,0 +1,43 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+
+# Unity generated project files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity / Rider / VS Code local settings
+.vs/
+.idea/
+.vscode/
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Credentials and local deployment metadata
+*.keystore
+Backend/.vercel/
+.env
+.env.*
+
+# macOS
+.DS_Store
